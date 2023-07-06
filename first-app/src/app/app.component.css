@@ -1,0 +1,46 @@
+.header {
+  display: block;
+  border-bottom: 2px solid #517CB0;
+  margin-top: 0px;
+}
+.content {
+  padding: var(--content-padding);
+}
+h1 {
+  float: left;
+  margin-top: 0.7em;
+  font-size: 2em;
+  font-family: Garamond, serif;
+  color: #517CB0;
+}
+h2 {
+  clear: left;
+  margin-left: 1em;
+  font-family: Garamond, serif;
+  margin-bottom: 0.2em;
+}
+section {
+  margin: 1em 0em;
+}
+p {
+  clear: both;
+}
+a {
+  font-family: Garamond, serif;
+  font-size: 1.2em;
+}
+a:link {
+  text-decoration: none;
+}
+a:visited {
+  text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+.logo {
+    float: left;
+    margin: 0.5em 1em;
+    width: 4em;
+    height: 4em;
+}
